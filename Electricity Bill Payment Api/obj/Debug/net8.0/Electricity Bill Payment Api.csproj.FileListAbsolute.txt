@@ -1,0 +1,33 @@
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\appsettings.Development.json
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\appsettings.json
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\Electricity Bill Payment Api.exe
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\Electricity Bill Payment Api.deps.json
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\Electricity Bill Payment Api.runtimeconfig.json
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\Electricity Bill Payment Api.dll
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\Electricity Bill Payment Api.pdb
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.csproj.AssemblyReference.cache
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.AssemblyInfoInputs.cache
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.AssemblyInfo.cs
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.csproj.CoreCompileInputs.cache
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.sourcelink.json
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\staticwebassets\msbuild.Electricity Bill Payment Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Electricity Bill Payment Api.props
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Electricity Bill Payment Api.props
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Electricity Bill Payment Api.props
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\scopedcss\bundle\Electricity Bill Payment Api.styles.css
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electric.E5BB945C.Up2Date
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.dll
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\refint\Electricity Bill Payment Api.dll
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.pdb
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\Electricity Bill Payment Api.genruntimeconfig.cache
+D:\GitHub\Electricity-Bill-Payment-Api\Electricity Bill Payment Api\obj\Debug\net8.0\ref\Electricity Bill Payment Api.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Electricity Bill Payment Api.props" />
+</Project>
