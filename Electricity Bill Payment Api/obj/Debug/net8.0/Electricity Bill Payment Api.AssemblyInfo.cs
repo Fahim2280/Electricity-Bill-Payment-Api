@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Electricity Bill Payment Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cc847d534517434b7b7d0f11b6eccdbc7972f85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b479353497fcaab0459b4af457af8a8bfc12b131")]
 [assembly: System.Reflection.AssemblyProductAttribute("Electricity Bill Payment Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Electricity Bill Payment Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
